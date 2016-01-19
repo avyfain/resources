@@ -1,4 +1,4 @@
-# Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Resources
 
 A collection of various awesome resources for future reference. Inspired by [awesome](https://github.com/sindresorhus/awesome)
 
@@ -74,19 +74,32 @@ A collection of various awesome resources for future reference. Inspired by [awe
     - [Iterate with a sentinel value](http://blog.amir.rachum.com/blog/2013/11/10/python-tips-iterate-with-a-sentinel-value/), **Amir Rachum**  
     You can use the iter function in a for loop to loop until a known value is returned.  
 
+    - [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/), **Armin Ronacher**   
+    Stop hiding complexity. Decouple, and expose IO. (see also: Jack Diederich's [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) and Brandon Rhodes' [Clean Architecture](http://rhodesmill.org/brandon/talks/#clean-architecture-python)).
+
 
 * **Videos**
-   - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4), **David Beazley**, PyCon US 2015  
+    - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4), **David Beazley**, PyCon US 2015   
    Threads, event loops, and coroutines: deconstructed and explained  
 
-   - [Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M), **Raymond Hettinger**, PyCon 2015  
-   Best practices for beautiful intelligible code.  
+    - [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0), **Jack Diederich**, PyCon 2012  
+    Get rid of cruft, YAGNI, and thoughtful refactoring with the end user in mind (see also, Armin Ronacher's [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/)).
+
+    - [Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M), **Raymond Hettinger**, PyCon 2015  
+    Best practices for beautiful intelligible code.  
     
-    - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go), **Raymond Hettinger**, PyCon US 2013  
+   - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go), **Raymond Hettinger**, PyCon US 2013  
    Improve existing code through a series of code transformations  
 
-   - [Python Design Patterns 1](https://www.youtube.com/watch?v=Er5K_nR5lDQ), **Brandon Rhodes**  
+   - [A Python Æsthetic: Beauty and Why I Python](https://www.youtube.com/watch?v=x-kB2o8sd5c), **Brandon Rhodes**  
+   The python community makes an effort to write beautiful, readable code. Be a part of it.
+
+    - [Python Design Patterns 1](https://www.youtube.com/watch?v=Er5K_nR5lDQ), **Brandon Rhodes**  
    Gang of Four patterns in modern Python programming ([Slides](http://rhodesmill.org/brandon/slides/2012-07-pyohio/)).
+
+    - [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM), **Brandon Rhodes**  
+   Improve your tests and *actually* decouple your code by isolating I/O instead of hiding it. ([Slides](http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/)).
+   
 
 ###Machine Learning  
 * **Books**
