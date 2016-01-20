@@ -22,6 +22,9 @@ A collection of various awesome resources for future reference. Inspired by [awe
     - [Revenge of the Nerds](http://www.paulgraham.com/icad.html), **Paul Graham**  
     An opinionated comparison of programming languages. Picking the right tools for the task, and why your boss will always pick the "Industry Standard".
 
+    - [A Bad Citizen in Javaland](http://darrenhobbs.com/2006/04/22/a-bad-citizen-in-javaland/), **Darren Hobbs**  
+    OOP is not inherently bad, bad OO programmers are.
+
     - [The Economics of Software Correctness](http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/), **David R. MacIver**  
     The reason behind your buggy software boils down to economic incentives.
 
