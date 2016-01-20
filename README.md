@@ -8,6 +8,7 @@ A collection of various awesome resources for future reference. Inspired by [awe
   - [Programming](#programming)  
     - [General](#general)
     - [Python](#python)
+    - [Ruby](#ruby)
     - [Machine Learning](#machine-learning)
     - [Experiments, and other fun stuff](#experiments-and-other-fun-stuff)
 
@@ -35,6 +36,9 @@ A collection of various awesome resources for future reference. Inspired by [awe
 
     - [The Duct Tape Programmer](http://www.joelonsoftware.com/items/2009/09/23.html), **Joel Spolsky**   
     Stop overengineering things.
+    
+    - [The 12 Factor App](http://12factor.net/), **Adam Wiggins**   
+    Methodology for building SaaS web apps with declarative setup, clean contracts and continuous deployment on the cloud for maximum portability, agility and scalability.
 
 * **Videos**
     - [Wat](https://www.destroyallsoftware.com/talks/wat), **Gary Bernhardt**  
@@ -100,6 +104,10 @@ A collection of various awesome resources for future reference. Inspired by [awe
     - [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM), **Brandon Rhodes**  
    Improve your tests and *actually* decouple your code by isolating I/O instead of hiding it. ([Slides](http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/)).
    
+###Ruby
+* **Articles**
+    - [The Ruby on Rails Doctrine](rubyonrails.org/doctrine), **David Heinemeier Hansson**  
+    The pillars of Ruby on Rails, and a manifesto to sustain its success into the future.
 
 ###Machine Learning  
 * **Books**
