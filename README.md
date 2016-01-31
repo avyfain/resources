@@ -1,4 +1,4 @@
-# Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Resources
 
 A collection of various awesome resources for future reference. Inspired by [awesome](https://github.com/sindresorhus/awesome)
 
@@ -8,6 +8,7 @@ A collection of various awesome resources for future reference. Inspired by [awe
   - [Programming](#programming)  
     - [General](#general)
     - [Python](#python)
+    - [Ruby](#ruby)
     - [Machine Learning](#machine-learning)
     - [Experiments, and other fun stuff](#experiments-and-other-fun-stuff)
 
@@ -20,6 +21,9 @@ A collection of various awesome resources for future reference. Inspired by [awe
 
     - [Revenge of the Nerds](http://www.paulgraham.com/icad.html), **Paul Graham**  
     An opinionated comparison of programming languages. Picking the right tools for the task, and why your boss will always pick the "Industry Standard".
+
+    - [A Bad Citizen in Javaland](http://darrenhobbs.com/2006/04/22/a-bad-citizen-in-javaland/), **Darren Hobbs**  
+    OOP is not inherently bad, bad OO programmers are.
 
     - [The Economics of Software Correctness](http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/), **David R. MacIver**  
     The reason behind your buggy software boils down to economic incentives.
@@ -38,6 +42,9 @@ A collection of various awesome resources for future reference. Inspired by [awe
 
     - [The Duct Tape Programmer](http://www.joelonsoftware.com/items/2009/09/23.html), **Joel Spolsky**   
     Stop overengineering things.
+    
+    - [The 12 Factor App](http://12factor.net/), **Adam Wiggins**   
+    Methodology for building SaaS web apps with declarative setup, clean contracts and continuous deployment on the cloud for maximum portability, agility and scalability.
 
 * **Videos**
     - [Wat](https://www.destroyallsoftware.com/talks/wat), **Gary Bernhardt**  
@@ -77,19 +84,36 @@ A collection of various awesome resources for future reference. Inspired by [awe
     - [Iterate with a sentinel value](http://blog.amir.rachum.com/blog/2013/11/10/python-tips-iterate-with-a-sentinel-value/), **Amir Rachum**  
     You can use the iter function in a for loop to loop until a known value is returned.  
 
+    - [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/), **Armin Ronacher**   
+    Stop hiding complexity. Decouple, and expose IO. (see also: Jack Diederich's [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) and Brandon Rhodes' [Clean Architecture](http://rhodesmill.org/brandon/talks/#clean-architecture-python)).
+
 
 * **Videos**
-   - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4), **David Beazley**, PyCon US 2015  
+    - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4), **David Beazley**, PyCon US 2015   
    Threads, event loops, and coroutines: deconstructed and explained  
 
-   - [Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M), **Raymond Hettinger**, PyCon 2015  
-   Best practices for beautiful intelligible code.  
+    - [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0), **Jack Diederich**, PyCon 2012  
+    Get rid of cruft, YAGNI, and thoughtful refactoring with the end user in mind (see also, Armin Ronacher's [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/)).
+
+    - [Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M), **Raymond Hettinger**, PyCon 2015  
+    Best practices for beautiful intelligible code.  
     
-    - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go), **Raymond Hettinger**, PyCon US 2013  
+   - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go), **Raymond Hettinger**, PyCon US 2013  
    Improve existing code through a series of code transformations  
 
-   - [Python Design Patterns 1](https://www.youtube.com/watch?v=Er5K_nR5lDQ), **Brandon Rhodes**  
+   - [A Python Æsthetic: Beauty and Why I Python](https://www.youtube.com/watch?v=x-kB2o8sd5c), **Brandon Rhodes**  
+   The python community makes an effort to write beautiful, readable code. Be a part of it.
+
+    - [Python Design Patterns 1](https://www.youtube.com/watch?v=Er5K_nR5lDQ), **Brandon Rhodes**  
    Gang of Four patterns in modern Python programming ([Slides](http://rhodesmill.org/brandon/slides/2012-07-pyohio/)).
+
+    - [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM), **Brandon Rhodes**  
+   Improve your tests and *actually* decouple your code by isolating I/O instead of hiding it. ([Slides](http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/)).
+   
+###Ruby
+* **Articles**
+    - [The Ruby on Rails Doctrine](rubyonrails.org/doctrine), **David Heinemeier Hansson**  
+    The pillars of Ruby on Rails, and a manifesto to sustain its success into the future.
 
 ###Machine Learning  
 * **Books**
