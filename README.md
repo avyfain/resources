@@ -7,6 +7,7 @@ A collection of various awesome resources for future reference. Inspired by [awe
   - [Introduction](#introduction)
   - [Programming](#programming)  
     - [General](#general)
+    - [Project Management](#project-management)
     - [Python](#python)
     - [Ruby](#ruby)
     - [Machine Learning](#machine-learning)
@@ -27,6 +28,9 @@ A collection of various awesome resources for future reference. Inspired by [awe
 
     - [The Economics of Software Correctness](http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/), **David R. MacIver**  
     The reason behind your buggy software boils down to economic incentives.
+
+    - [The Wrong Abstraction](http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction), **Sandi Metz**
+    Old code is subject to the sunk cost fallacy, and a bad abstraction that gets dragged along becomes spaghetti. Avoid it.
 
     - [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/), **Patrick McKenzie**   
     Handling names is hard. Stop making assumptions.
@@ -52,6 +56,11 @@ A collection of various awesome resources for future reference. Inspired by [awe
 
     - [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4), **Bret Victor**  
     1973 meets 2013 ([Slides](http://worrydream.com/dbx/))
+
+###Project Management
+* **Articles**
+    - [Heisenberg Developers](http://mikehadlow.blogspot.cl/2014/06/heisenberg-developers.html), **Mike Hadlow**
+    Measuring how much is getting done affects the development process: "You can not observe a developer without altering their behavior."
 
 ###Python
 * **Articles**
