@@ -69,6 +69,9 @@ A collection of various awesome resources for future reference. Inspired by [awe
     - [How the heck does async/await work in Python 3.5?](http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5), **Brett Cannon**  
     An explanation of concurrent programming, and how it works. Still need to wrap my head around this.
     
+    - [Why `print` became a function in Python 3](http://www.snarky.ca/why-print-became-a-function-in-python-3), **Brett Cannon**  
+    Functions are composable. The old print? It wasn't.
+    
     - [Why Python 3 Exists](http://www.snarky.ca/why-python-3-exists), **Brett Cannon**  
     And more importantly, why is it backwards incompatible?
 
