@@ -66,6 +66,9 @@ A collection of various awesome resources for future reference. Inspired by [awe
 * **Articles**
     - [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html), **Ned Batchelder**
 
+    - [How the heck does async/await work in Python 3.5?](http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5), **Brett Cannon**  
+    An explanation of concurrent programming, and how it works. Still need to wrap my head around this.
+    
     - [Why Python 3 Exists](http://www.snarky.ca/why-python-3-exists), **Brett Cannon**  
     And more importantly, why is it backwards incompatible?
 
