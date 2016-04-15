@@ -83,6 +83,9 @@ A collection of various awesome resources for future reference. Inspired by [awe
 
     - [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/) **Mahmoud Hashemi**  
     Python is old, compiles to bytecode, is secure, isn't just for scripting, is strongly typed, is fast, scales, supports concurrency, developers like it, and it works for big projects. And that's all 10.
+    
+    - [Python with context managers](http://jeffknupp.com/blog/2016/03/07/python-with-context-managers/), **Jeff Knupp**   
+    Context managers are one of python's most interesting pieces of syntactic sugar. Knupp explains a few ways to use and define them.
 
     - [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/), **Trey Hunner**   
     "Counting Things" as a case study of python's evolution.
