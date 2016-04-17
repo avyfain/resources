@@ -81,6 +81,9 @@ A collection of various awesome resources for future reference. Inspired by [awe
     - [Python is not Java](http://dirtsimple.org/2004/12/python-is-not-java.html), **Phillip Eby**  
     different strokes for different folks
 
+    - [Advanced use of Python decorators and metaclasses](http://blog.thedigitalcatonline.com/blog/2014/10/14/decorators-and-metaclasses/), **Leonardo Giordiani**  
+    Making use of python's more advanced features to solve a toy problem. Override a few dunder methods and get _magic_ in return.
+
     - [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/) **Mahmoud Hashemi**  
     Python is old, compiles to bytecode, is secure, isn't just for scripting, is strongly typed, is fast, scales, supports concurrency, developers like it, and it works for big projects. And that's all 10.
 
