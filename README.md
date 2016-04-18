@@ -23,6 +23,9 @@ A collection of various awesome resources for future reference. Inspired by [awe
     - [Revenge of the Nerds](http://www.paulgraham.com/icad.html), **Paul Graham**  
     An opinionated comparison of programming languages. Picking the right tools for the task, and why your boss will always pick the "Industry Standard".
 
+    - [The Magestic Monolith](https://m.signalvnoise.com/the-majestic-monolith-29166d022228), **David Heinemeier Hansson**  
+    Sometimes, microservices are not the answer. IMO, that's most times.
+
     - [A Bad Citizen in Javaland](http://darrenhobbs.com/2006/04/22/a-bad-citizen-in-javaland/), **Darren Hobbs**  
     OOP is not inherently bad, bad OO programmers are.
 
