@@ -38,6 +38,12 @@ A collection of various awesome resources for future reference. Inspired by [awe
     - [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/), **Patrick McKenzie**   
     Handling names is hard. Stop making assumptions.
 
+    - [Naming Things in Code](http://journal.stuffwithstuff.com/2009/06/05/naming-things-in-code/), **Bob Nystrom**   
+    Naming things is also hard. Think about how others (including _future_ you!) will understand the connections in your code via its nomenclature. Make your code more maintainable by picking the right names.
+
+    - [Long Names are Long](http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/), **Bob Nystrom**   
+    And long names are generally an antipattern. If you doubt that, [ask Douglas Hofstadter](https://books.google.com/books?id=o8jzWF7rD6oC&pg=PA693&dq=Post%20Scriptum).
+
     - [Dizzying but invisible depth](https://plus.google.com/+JeanBaptisteQueru/posts/dfydM2Cnepe), **Jean-Baptiste Quéru**  
     You just went to the Google home page. Simple, isn't it? What just *actually* happened? (There is also a [crowdsourced version](https://github.com/alex/what-happens-when) of this worth checking out)
 
