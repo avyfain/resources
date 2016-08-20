@@ -73,7 +73,11 @@ A collection of various awesome resources for future reference. Inspired by [awe
 
 ###Python
 * **Articles**
+    - [Breaking out of two loops](http://nedbatchelder.com/blog/201608/breaking_out_of_two_loops.html), **Ned Batchelder**
+
     - [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html), **Ned Batchelder**
+
+    - [Lists vs. Tuples](http://nedbatchelder.com/blog/201608/lists_vs_tuples.html), **Ned Batchelder**
 
     - [A polyglot's guide to multiple dispatch](http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch-part-2/), **Eli Bendersky**  
     Part two in a series of several languages. Shows how to use mutlimethod mapping to easily dispatch objects to different functions based on the types of the arguments passed in.
